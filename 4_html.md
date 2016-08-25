@@ -49,7 +49,7 @@ abertura e fechamento. Exemplo:
 <h1>Título da página</h1>
 ```
 
-Alguns casos não precisam de tuas tags, uma de abertura e outra para
+Alguns casos não precisam de duas tags, uma de abertura e outra para
 fechamento, pois o fechamento ocorre dentro da própria tag.
 
 Tag para adicionar nova linha em branco:
@@ -62,7 +62,7 @@ Tag para adicionar nova linha em branco:
 
 * As tags podem ser escritas tanto em maiúsculas como em minúsculas: `<h1>` ou
   `<H1>` (o mais utilizado é em minúsculo)
-* Não pode haver espaços na declaração das tags: `< h1 >`
+* Não pode conter espaços na declaração das tags: `< h1 >`
 * Todas as tags devem ser fechadas: `<h1>Sub título</h1>` ou `<br />`
 
 ## Tags aninhadas
